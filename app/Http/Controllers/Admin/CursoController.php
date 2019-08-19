@@ -76,5 +76,13 @@ public function atualizar(Request $req, $id){
     Curso::find($id)-> update($dados);
 
     return redirect() -> route('admin.cursos');
-}
+    }
+
+    public function deletar($id){
+        Curso::find($id) -> delete();
+        return redirect() -> route('admin.cursos');
+
+
+
+    }
 }
