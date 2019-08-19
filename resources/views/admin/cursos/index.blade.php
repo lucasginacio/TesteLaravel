@@ -11,6 +11,7 @@
                            <th>Id</th>     
                            <th>Título</th>     
                            <th>Descrição</th>     
+                           <th>Valor</th>     
                            <th>Imagem</th>     
                            <th>Publicado</th>     
                            <th>Ação</th>     
@@ -24,6 +25,7 @@
                                 <td> {{ $registro -> id }}</td>
                                 <td> {{ $registro -> titulo }}</td>
                                 <td> {{ $registro -> descricao }}</td>
+                                <td> {{ $registro -> valor }}</td>
                                 <td> <img height="60" src="{{asset($registro-> imagem)}}" alt="{{ $registro -> titulo }}"></td>
                                 <td> {{ $registro -> publicado }}</td>
                                 <td> 
