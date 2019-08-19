@@ -18,7 +18,7 @@
         <header>
         <nav>
     <div class="nav-wrapper deep-orange">
-      <a href="#!" class="brand-logo">Curso Laravel</a>
+      <a href="#!" class="brand-logo">   Curso Laravel</a>
       <a href="#" data-target="mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="/">Home</a></li>
