@@ -1,7 +1,7 @@
 
 # Curso introdução ao Laravel
 
-Curso feito utilizando o framework Laravel do PHP + MySQL + Materialize css
+Curso feito utilizando o framework Laravel do PHP + MySQL + Materialize css para CRUD nos cursos.
 
 Tela dos cursos.
 ![https://i.imgur.com/LFDYqsb.png](https://i.imgur.com/LFDYqsb.png)
